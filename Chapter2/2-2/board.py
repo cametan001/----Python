@@ -12,22 +12,3 @@ class Board:
     def set_white(self, x, y):
         # クラスのアトリビュートを代入して、盤面に白い駒を置く
         self.board[x][y] = self.WHITE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
